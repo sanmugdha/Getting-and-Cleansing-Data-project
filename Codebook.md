@@ -2,8 +2,8 @@
 
 Variable list 
 ---------------
-1. str(TidyData)
-1. Classes ‘data.table’ and 'data.frame':
+str(TidyData)
+Classes ‘data.table’ and 'data.frame':
 1.	 $ SubjectID                  : int  2 2 2 2 2 2 4 4 4 4 ...
 1.	 $ Activity                   : Factor w/ 6 levels "LAYING","SITTING",..: 3 2 1 4 5 6 3 2 1 4 ...
 1.	 $ tBodyAcc-mean()-X          : num  0.278 0.277 0.281 0.276 0.278 ...
